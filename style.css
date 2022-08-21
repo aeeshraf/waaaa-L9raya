@@ -1,13 +1,37 @@
 h1{
-    color: blueviolet;
- font-style: normal;
- font-size: 100px;
- margin: 0px;
+   background-color: rgba(98, 0, 255, 0.514);
  text-align: center;
- background-color: darkgray;
-
-}
+ margin: 0px 2px;
+   font-size: 100px;
+      border-style: groove;
+   
+   left: 100px;
+ }
 p{
    font-size: 50px;
+   background-color: black;
+   color: aliceblue;
    text-align: center;
+   border-radius: 2rem;
+}
+ .button{
+
+   background-color: rgb(255, 0, 0);
+   border: none;
+   color: black;
+   padding: 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 50px;
+   margin: 4px 2px;
+   border-radius: 2rem;
+   position: relative;
+   left: 100px;
+}
+img{
+   width: 300px;
+   height: 200px;
+   position: relative;
+   left: 111px;
 }
